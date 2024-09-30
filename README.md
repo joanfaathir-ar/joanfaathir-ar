@@ -68,12 +68,8 @@
   ![Figma](https://img.shields.io/badge/figma-eaeaea.svg?style=for-the-badge&logo=figma&logoColor=black)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
-
-</p>
-
 <br>
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -85,8 +81,8 @@
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-  [![Instagram Badge](https://img.shields.io/badge/-jojoan.n_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
+
+  [![Instagram Badge](https://img.shields.io/badge/jojoan.n-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
