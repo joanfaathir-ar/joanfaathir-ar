@@ -83,6 +83,7 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
   [![Instagram Badge](https://img.shields.io/badge/jojoan.n-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
+  [![Facebook Badge](https://img.shields.io/badge/Joan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joan.wayaw?mibextid=ZbWKwL)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
