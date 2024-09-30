@@ -5,8 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah+Wabarakatuh..&hearts;++;Self-taught+Fullstack+Developer,;Software+Engineering+Student,;Valorant+Player,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<br>
-	
 ## <picture><img src = "https://github.com/user-attachments/assets/27704188-d1ad-4d34-9371-d08f721fb78f" width = 50px></picture> **About me**
 <br>
 
@@ -83,6 +81,8 @@
 <br>
 
 ## <b>🤝 Let's Connect..!</b>
+
+<br>
 
   [![Instagram Badge](https://img.shields.io/badge/jojoan.n-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
   [![Facebook Badge](https://img.shields.io/badge/Joan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joan.wayaw?mibextid=ZbWKwL)
