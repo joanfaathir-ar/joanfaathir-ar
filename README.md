@@ -95,7 +95,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-[![Instagram Badge](https://img.shields.io/badge/-jojoan.n_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
+   [![Instagram Badge](https://img.shields.io/badge/-jojoan.n_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
