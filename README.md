@@ -84,6 +84,7 @@
 
   [![Instagram Badge](https://img.shields.io/badge/jojoan.n-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
   [![Facebook Badge](https://img.shields.io/badge/Joan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joan.wayaw?mibextid=ZbWKwL)
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/868301805874987058/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
