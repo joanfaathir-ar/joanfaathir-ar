@@ -72,30 +72,21 @@
 </p>
 
 <br>
-
 <br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
-<div align="center">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joanfaathir-ar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1&custom_title=Joan%20Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joanfaathir-ar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=monokai&hide_border=false&order=2&custom_title=Joan%20Most%20Used%20Language" height="150" alt="languages graph"  />
 </div>
-
-</div>
-
-<br>
-
 <br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-   [![Instagram Badge](https://img.shields.io/badge/-jojoan.n_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
+  [![Instagram Badge](https://img.shields.io/badge/-jojoan.n_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojoan.n/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
