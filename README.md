@@ -33,6 +33,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-D1E9F6.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
 <br>   
     
@@ -63,7 +64,9 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-eaeaea.svg?style=for-the-badge&logo=figma&logoColor=black)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 
 </p>
@@ -90,6 +93,10 @@
 <div align="center">
   <a href="https://open.spotify.com/user/Jo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jo&count=5&unique=false" alt="Spotify recently played"  />
+	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e)
+	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e&count={count})
+	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e&width={width})
+	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e&unique={true|1|on|yes})
   </a>
 </div>
 
