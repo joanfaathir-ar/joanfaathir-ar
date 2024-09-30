@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Fullstack developer
-- Playing CTF's at spare time
+- I like to playing Valorant and any other competitive game
 - Currently learning Web Development by Self
 
 <br><br>
