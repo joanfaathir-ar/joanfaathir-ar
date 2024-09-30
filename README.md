@@ -7,7 +7,7 @@
 
 <br>
 	
-## <picture><img src = "https://jmp.sh/s/EaSPSOHrfFcBajfpeXWM" width = 50px></picture> **About me**
+## <picture><img src = "https://imgflip.com/gif/954bk3" width = 50px></picture> **About me**
 <br>
 
 - A passionate Self-taught Fullstack developer
