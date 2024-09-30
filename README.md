@@ -20,8 +20,6 @@
 - A passionate Self-taught Fullstack developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- 
-- 
 
 <br><br>
 
