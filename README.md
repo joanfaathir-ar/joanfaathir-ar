@@ -89,18 +89,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Jo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jo&count=5&unique=false" alt="Spotify recently played"  />
-	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e)
-	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e&count={count})
-	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e&width={width})
-	  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ex4r5dzk5sojsd3nugm6rrdm3e&unique={true|1|on|yes})
-  </a>
-</div>
-
-###
 </div>
 
 <br>
