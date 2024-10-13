@@ -8,9 +8,8 @@
 ## <picture><img src = "https://github.com/user-attachments/assets/27704188-d1ad-4d34-9371-d08f721fb78f" width = 50px></picture> **About me**
 <br>
 
-- A passionate Self-taught Fullstack developer
-- I like to playing Valorant and any other competitive game
 - Currently learning Web Development by Self
+- I like to playing Valorant and any other competitive game
 
 <br>
 
